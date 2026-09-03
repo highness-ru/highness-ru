@@ -10,7 +10,7 @@ I have 5+ years of experience testing mobile apps, games, VR and cross-platform 
 
 ### Featured project
 
-**[Murder Mystery: Dark Manor](https://github.com/highness-ru/MurderMystery)** — aSolo-developed SwiftUI detective game published on the [App Store](https://apps.apple.com/gb/app/murder-mystery-dark-manor/id6800487173). Includes Swift Testing unit coverage and XCUITest UI automation.
+**[Murder Mystery: Dark Manor](https://github.com/highness-ru/MurderMystery)** — a solo-developed SwiftUI detective game published on the [App Store](https://apps.apple.com/gb/app/murder-mystery-dark-manor/id6800487173). Includes Swift Testing unit coverage and XCUITest UI automation.
 
 ### Find me
 
