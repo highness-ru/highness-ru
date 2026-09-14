@@ -6,7 +6,7 @@ I have 5+ years of professional QA experience across mobile, web, VR and games, 
 
 ### Current focus
 
-**Swift · SwiftUI · Playwright · Swift Testing  · XCTest/XCUITest · Test Automation · Playwright · REST APIs · Firebase · Git · GitHub**
+**Swift · SwiftUI · Playwright · Swift Testing  · XCTest/XCUITest · Test Automation · REST APIs · Firebase · Git · GitHub**
 
 ### Featured work
 
