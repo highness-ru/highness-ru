@@ -1,12 +1,12 @@
 # Hi, I'm Alisa 👋
 
-QA Engineer and software developer based in London, currently building deeper skills in test automation and software engineering.
+Software developer and Automation QA based in London, currently building deeper skills in test automation and software engineering.
 
 I have 5+ years of professional QA experience across mobile, web, VR and games, and I build Swift/SwiftUI applications independently.
 
 ### Current focus
 
-**Swift · SwiftUI · Playwright · Swift Testing  · XCTest/XCUITest · Test Automation · REST APIs · Firebase · Git · GitHub**
+**Swift · SwiftUI · Playwright · JavaScript · Node.js · Express · Swift Testing  · XCTest/XCUITest · Test Automation · REST APIs · Firebase · Git · GitHub**
 
 ### Featured work
 
@@ -14,6 +14,8 @@ I have 5+ years of professional QA experience across mobile, web, VR and games, 
 
 **[FunWeatherApp](https://github.com/highness-ru/FunWeatherApp)**
 SwiftUI weather app using Open-Meteo, CoreLocation and MapKit, with unit, API integration and XCUITest coverage.
+
+**[Weather Ad Generator](https://github.com/highness-ru/weather-ad-generator)** - small full-stack JavaScript project using Node.js, Express and Open-Meteo to generate advertising copy from live weather data, with Playwright browser tests and GSAP animation.
 
 ### Find me
 
